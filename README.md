@@ -4,6 +4,20 @@
 </h1>
 
 I'm starting my career specifically in Dev Full-Stack with technologies, Javascript, Node, React, Mongo and Next JS, since December 2021.
+
+Sou um Desenvolvedor focado em me tornar um Dev FullStack 🚀 nas stacks Javascript, Node, React, Mongo e Next JS. 
+No entanto, atualmente tenho trabalhado 👨‍💻 apenas como Front-End com as stacks Javascript, React.js, Css/Sass, Bootstrap.
+Tenho 30 anos, Brasileiiro, Formado em Sistemas de Informação, estudante da língua inglesa, sempre fui apaixonado pelo mundo da tecnologia 🤩 me sinto muito realizado quando vejo o pensamento criando forma, não só em projetos entregues mas como em valor agregado aos envolvidos 🌎.
+
+Para apresentação do meu portfólio disponibilizei alguns projetos de Front-End aqui em meu Github!
+
+Os de maior destaques são: 
+MagBank: Um banco digital fictício, para treinar conhecimentos em JS, React, Bootstrap, Sass.
+
+Home-page-Streaming: Layout baseado na página principal da Netflix, para treinar o uso do Slick-Carousel dentre outros componentes, Baseados em JS, React, React-Bootstrap, css.
+
+Studion: Um site de eventos, baseado apenas em HTML e CSS para treinar habilidades de desenvolvimentos puros, sem uso de frameworks.
+
   
 ### Profile
   <img src="https://github-readme-stats.vercel.app/api?username=heltonbc&show_icons=true&theme=dark&include_all_commits=true&count_private=true&count_public=true" />
