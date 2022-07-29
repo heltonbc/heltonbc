@@ -17,7 +17,7 @@ Studion: Um site de eventos, baseado apenas em HTML e CSS para treinar habilidad
 
   
 ### Profile
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heltonbc&theme=chartreuse-dark&show_icons=true&include_all_commits=true)](https://github.com/heltonbc/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heltonbc&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true&count_public=true)](https://github.com/heltonbc/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heltonbc&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true&count_public=true)](https://github.com/heltonbc/github-readme-stats)
   
 ### My Stacks
