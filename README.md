@@ -4,7 +4,7 @@
 </h1>
 
 Sou um Desenvolvedor focado em me tornar um Dev FullStack 🚀 nas stacks Javascript, Node, React, Mongo e Next JS. 
-No entanto, atualmente tenho trabalhado 👨‍💻 apenas como Front-End com as stacks Javascript, React.js, Css/Sass, Bootstrap.
+No entanto, atualmente tenho trabalhado 👨‍💻 apenas como Front-End com as stacks Javascript, React.js, Next.js, API, Css/Sass, Bootstrap.
 Tenho 30 anos, Brasileiro, Formado em Sistemas de Informação, estudante da língua inglesa, sempre fui apaixonado pelo mundo da tecnologia 🤩 me sinto muito realizado quando vejo o pensamento criando forma, não só em projetos entregues mas como em valor agregado aos envolvidos 🌎.
 
 Para apresentação do meu portfólio disponibilizei alguns projetos de Front-End aqui em meu Github!
