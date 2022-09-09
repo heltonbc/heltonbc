@@ -13,7 +13,7 @@ MagBank: Um banco digital fictício, para treinar conhecimentos em JS, React, Bo
 
 Home-page-Streaming: Layout baseado na página principal da Netflix, para treinar o uso do Slick-Carousel dentre outros componentes, Baseados em JS, React, React-Bootstrap, css.
 
-Studion: Um site de eventos, baseado apenas em HTML e CSS para treinar habilidades de desenvolvimentos puros, sem uso de frameworks.
+Studion: Um site de eventos, baseado apenas em HTML e CSS para treinar habilidades de desenvolvimentos puros, sem uso de frameworks e bibliotecas.
 
   
 ### Profile
