@@ -16,10 +16,6 @@ Home-page-Streaming: Layout baseado na página principal da Netflix, para treina
 Studion: Um site de eventos, baseado apenas em HTML e CSS para treinar habilidades de desenvolvimentos puros, sem uso de frameworks.
 
   
-### Profile
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heltonbc&theme=chartreuse-dark&show_icons=true)](https://github.com/heltonbc/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heltonbc&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true&count_public=true)](https://github.com/heltonbc/github-readme-stats)
-  
 ### My Stacks
 <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40 height=40 /> <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 height=40 /> <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 height=40 /> <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 height=40 /> <img alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width=40 height=40 /> <img alt="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=40 height=40 /> <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40 height=40 /> <img alt="Next" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width=40 height=40 /> <img alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=40 height=40 /> <img alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=40 height=40 /> <img alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=40 height=40 />
   
