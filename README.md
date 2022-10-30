@@ -11,7 +11,7 @@ Para apresentação do meu portfólio disponibilizei alguns projetos de Front-En
 Os de maior destaques são:
 MagBank: Um banco digital fictício, para treinar conhecimentos em JS, React, Bootstrap, Sass.
 
-Home-page-Streaming: Layout baseado na página principal da Netflix, para treinar o uso do Slick-Carousel dentre outros componentes, Baseados em JS, React, React-Bootstrap, css.
+Home-page-Streaming: Layout baseado na página principal da Netflix, para o uso do Slick-Carousel entre outros componentes, baseado em JS, React, React-Bootstrap, css.
 
 Studion: Um site de eventos baseado apenas em HTML e CSS para treinamento de habilidades de desenvolvimento puro, uso de frameworks.
 🚀
