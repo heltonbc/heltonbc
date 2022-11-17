@@ -7,11 +7,14 @@ Já apliquei em projetos as tecnologias: (JavaScript, TypeScript, Node, Express,
 
 Tenho 30 anos, Brasileiro, Formado em Sistemas de Informação, estudante da língua inglesa, sempre fui apaixonado pelo mundo da tecnologia 🤩 me sinto muito realizado quando vejo o pensamento criando forma, não só em projetos entregues mas como em valor agregado aos envolvidos 🌎.
 
-Para apresentação do meu portfólio disponibilizei alguns projetos de Front-End em meu Github 
-👉 https://github.com/heltonbc
+Para apresentação do meu portfólio disponibilizei alguns projetos publicamente aqui em meu github alguns em destaques aqui abaixo:
+
 Dentre eles:
+
 👉 nearBank: Um banco digital fictício, para treinar conhecimentos em JS, React, Bootstrap, Sass.
+
 👉 My-Flix: Layout baseado na Netflix, desenvolvido em TS, React, Tailwind e consumo de API TMDB.
+
 👉 Studio-Play: Um site de eventos, baseado apenas em HTML e CSS para treinar habilidades de desenvolvimentos puros, sem uso de frameworks.
   
 ### My Stacks
