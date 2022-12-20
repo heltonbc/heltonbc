@@ -11,16 +11,15 @@ await, Uso de Hooks/States e Promises, Mogoose, dotenv, Redux, Context.
 
 Tenho 30 anos, Brasileiro, Formado em Sistemas de Informação, estudante da língua inglesa, sempre fui apaixonado pelo mundo da tecnologia 🤩 me sinto muito realizado quando vejo o pensamento criando forma, não só em projetos entregues mas como em valor agregado aos envolvidos 🌎.
 
-Para apresentação do meu portfólio disponibilizei alguns projetos de Front-End em meu Github
+Para apresentação do meu portfólio disponibilizei alguns projetos aqui em meu Github
 
-👉 https://github.com/heltonbc
 Dentre eles:
 
-👉 nearBank: Um banco digital fictício, para treinar conhecimentos em JS, React, Bootstrap, Sass.
+👉 <a href="https://github.com/heltonbc/nearbank" target="_blank">nearBank:</a> Um banco digital fictício, para treinar conhecimentos em JS, React, Bootstrap, Sass.
 
-👉 My-Flix: Layout baseado na Netflix, desenvolvido em TS, React, Tailwind e consumo de API TMDB.
+👉 <a href="https://github.com/heltonbc/MyFlix" target="_blank">My-Flix:</a> Layout baseado na Netflix, desenvolvido em TS, React, Tailwind e consumo de API TMDB.
 
-👉 Studio-Play: Um site de eventos, baseado apenas em HTML e CSS para treinar habilidades de desenvolvimentos puros, sem uso de frameworks.
+👉 <a href="https://github.com/heltonbc/studio-play" target="_blank">Studio-Play:</a> Um site de eventos, baseado apenas em HTML e CSS para treinar habilidades de desenvolvimentos puros, sem uso de frameworks.
 
   
 ### My Stacks
