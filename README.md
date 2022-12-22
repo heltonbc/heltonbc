@@ -4,7 +4,7 @@
 
 Sou Desenvolvedor Full Stack Jr. com as tecnologias Javascript, Node, React, Mongo e Next JS.
 Em projetos Frontend atuo desde Dezembro/2021 e Backend desde Outubro/2022.
-Além das tecnologias citadas acima, também utilizei em projetos que estão em meu portfólio no do github:
+Além das tecnologias citadas acima, também utilizei em projetos que estão em meu portfólio:
 (Bootstrap, Tailwind, Styled-Components, Html, Css, Scss, Node, Deno, Express, Git/Github Cli, Pacotes
 yarn/npm, Jsx, React-router-dom, Consumo de API / API Rest, Métodos Http, Isomnia, Fetch/Redux, Async
 await, Uso de Hooks/States e Promises, Mogoose, dotenv, Redux, Context.
