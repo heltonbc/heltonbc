@@ -52,7 +52,7 @@ Se você está buscando um parceiro para desenvolver sua próxima solução digi
 
 📫 **Contato direto**: [helton@hbcdigital.com](mailto:helton@hbcdigital.com)  
 🌐 **Site oficial (em breve)**: [hbcdigital.com](https://hbcdigital.com)  
-📍 **Base**: Maringá, PR – Brasil
+📍 **Base**: PR – Brasil
 
 ---
 
